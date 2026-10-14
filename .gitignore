@@ -1,0 +1,33 @@
+# Compiled executables
+myls
+a.out
+
+# Object files and libraries
+*.o
+*.a
+*.so
+
+# Crash dumps
+*.core
+core
+core.*
+
+# Backups and temporary editors
+*.bak
+*.swp
+*.swo
+*~
+backup_stage4/
+backup_stage5/
+.vscode/
+.idea/
+
+# Temporary test outputs
+expected.txt
+actual.txt
+*.tmp
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+
